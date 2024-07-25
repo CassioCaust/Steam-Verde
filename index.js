@@ -16,7 +16,7 @@ while(true) {
     5. Para sair
     `)
 
-    const opcao = Number(prompt("Escolha uma opção"))
+    const opcao = Number(prompt("Escolha uma opção: "))
 
     switch (opcao) {
         case 1:
